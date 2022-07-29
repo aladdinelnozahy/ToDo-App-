@@ -1,0 +1,8 @@
+.throughline{
+    text-decoration: line-through solid red 16%;
+}
+#font{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
